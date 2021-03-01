@@ -8,7 +8,7 @@ Implements a Dictionary in C. Includes memory management, file reading and hash 
 
 ## Readability: Calculating a passage's readability (written in Python)
 --------------
-Short exercise that takes as input a sentence and outputs the approxmate reading level. | [Source code](https://github.com/dougweltman/CS50-items/blob/main/readability.py)
+Short exercise that takes as input a sentence and outputs the approxmate reading level using the Coleman-Liau index. | [Source code](https://github.com/dougweltman/CS50-items/blob/main/readability.py)
 
 
 ## DNA: Identifying matching genomes using short tandem repeats (written in Python)
